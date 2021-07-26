@@ -5,7 +5,7 @@
 ## Overview and Origin
 While my views do not align with Mr. Munger's, maybe some of his disdain is derived from the fact investing in cryptocurrency can be a daunting task. Coinbase Inc. co-Founders Brian Armstrong and Fred Ehrsam worked to solve this problem in 2012 when they created their online platform that allows merchants, consumers, and traders to transact with digital currency.
 
-![Image Credit:Coinbase](Disrupt-2021-armstrong.jpg)
+![Image Credit:Coinbase](images/Disrupt-2021-armstrong.jpg)
 
 Before starting Coinbase, Brian Armstrong worked for 14 months at Airbnb as a technical product manager focused on fraud prevention. During this time, he learned about payment systems across the world and their problems while he became interested in crytocoins. 
 
