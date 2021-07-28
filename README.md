@@ -32,10 +32,21 @@ Bitcoin entered the scene in 2009 with a whitepaper by the mysterious person or 
 
  While Bitcoin remains the most popular and influential cryptocurrency, it has tons of competition from other cryptocurrencies commonly referred to as altcoins. Some of the most notable alternatives are Ethereum, Litecoin, Cardano, and Polkadot. According to Statista, there were 66 cryptocurrencies in 2013 and now there are 6,044 as of July 2021.
 
-As cryptocurrencies have grown, so too has the competition for Coinbase. Voyager is a powerful and secure trading app which provides 50+ digital assets. iTrustCapital is considered the leader in crypto IRA's as it provides you with the ability to buy or sell digital assets and VaultChain precious metals tax-free. Crypto.com has an entire crypto ecosystem that contains its app, Crypto Earn, Crypto Credit, the Crypto.com Exchange and DeFi Wallet along with Crypto Pay. Gemini is another competitor with an interesting approach providing multiple platform options based on user skill level while offereing 26 different coins and tokens on their exchange. Rounding out the competition is the company with the best brand recognition in Robinhood, which provides traders with an intuitive and streamlined platform. 
+As cryptocurrencies have grown in popularity, so too has the competition for Coinbase. Voyager is a powerful and secure trading app which provides 60+ digital assets. Kraken is a powerful bank and exchange which also provides information to Bloomberg Terminal. iTrustCapital is considered the leader in crypto IRA's as it provides you with the ability to buy or sell digital assets and VaultChain precious metals tax-free. Crypto.com has an entire crypto ecosystem that contains its app, Crypto Earn, Crypto Credit, the Crypto.com Exchange and DeFi Wallet along with Crypto Pay. Gemini is another competitor with an interesting approach providing multiple platform options based on user skill level while offering 26 different coins and tokens on their exchange. Rounding out the competition is the company with the best brand recognition in Robinhood, which provides traders with an intuitive and streamlined platform. 
 
 ## Results
 Coinbase boasts sales of 1.3B USD and a market cap of 68.1B USD. In Q1 2021, Coinbase's trading volume was 335 billion USD. Over the past few years, Coinbase has consistently increased their share of the crypto market from 4.5% in 2018 to 11.3% in 2021. A large part of this success is due to expanding their reach with hedge funds, financial institutions and other institutional customers, which hold 44.8 billion worth of assets on the platform. 
+
+
+
+On April 14, 2021 Coinbase joined the Nasdaq via a direct listing and became the first major crypto exchange in the United States to go public. This milestone firmly planted crypto in the mainstream financial system. "Right now, they have the name in the industry,” says Lambert Despaux, a Toptal freelance private markets expert and the founder of venture capital firm Schema Capital. “But the competition is going to be fierce.” According to CryptoCompare there are now 84 crypto exchanges vying for market share. They will also continue to feel more heat from Wall Street establishment firms as they continue to warm up to the asset class including major players like JPMorgan Chase, which plans to launch an actively managed Bitcoin fund this year.
+
+
+Coinbase recently received a AA rating from CryptoCompare making them one of a few low risk exchanges. They will continue to be viewed as a top-tier exchange because of their focus on security, legal/regulatory, and transaction risk. Security is improved by holding over 95% of their assets in the more secure cold wallets versus hot wallets. A high legal/regulatory rating is awarded by carrying insurance against losses, following industry guidelines and providing various compliance statements. The third key component of mitigating risk is achieved through market surveillanc systems and on-chain transaction monitoring.
+ 
+Binance, not mentioned above, is considered to be one of the largest threats to Coinbase. Launching just four years ago in China, they are offering more than 350 coins and their trading volume was 757 billion USD in March of this year. While they are ranked lower than Coinbase in quality and safety, they have been wildly innovative with products which appeal to more seasoned traders including one of the industry's first crypto derivatives platforms. 
+
+"Coinbase made its name as the safest on-ramp for converting dollars into tokens and developed a brokerage business that attracted not just retail but a growing cadre of corporate clients like Tesla and hedge fund Third Point Management. While it lags rivals in trading volume, it still has the most assets under management on its platform, a $223 billion pool of liquidity that gives it power to provide superior pricing and trade execution that institutional investors demand," says Zachary Elfman, a Toptal freelance finance expert.
 
 ### Resources:
 - [CNBC](https://www.cnbc.com/2021/05/01/charlie-munger-calls-bitcoin-disgusting-and-contrary-to-the-interests-of-civilization.html)
@@ -51,8 +62,8 @@ Coinbase boasts sales of 1.3B USD and a market cap of 68.1B USD. In Q1 2021, Coi
 - [Statista](https://www.statista.com/statistics/863917/number-crypto-coins-tokens/)
 - [Software Guild](https://www.thesoftwareguild.com/blog/a-brief-history-of-cryptocurrency/)
 - [Columbus](https://columbus.org/wp-content/uploads/2018/10/wp_the-blockchain-landscape.pdf)
+- [Fast Company](https://www.markcampbellproductions.com/headshots)
+- [Toptal](https://www.toptal.com/finance/blockchain/coinbase)
+- [Kraken](https://www.kraken.com/en-us/)
+- [Crypto Compare](https://www.cryptocompare.com/)
 
-
-
-
-According to their mission, "Everyone deserves access to financial services that can help empower them to create a better life for themselves and their families. If the world economy ran on a common set of standards that could not be manipulated by any company or country, the world would be a more fair and free place, and human progress would accelerate."
