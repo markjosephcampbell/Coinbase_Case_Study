@@ -9,7 +9,7 @@ While my views do not align with Mr. Munger's, maybe some of his disdain is deri
 
 Before starting Coinbase, Brian Armstrong worked for 14 months at Airbnb as a technical product manager focused on fraud prevention. During this time, he learned about payment systems across the world and their problems while he became interested in crpytocoins. 
 
-Headquartered in San Francisco, California, Coinbase boasts a team of 1,700 employees with sales of 1.3B USD, a market cap of 68.1B USD and it is the largest consumer bitcoin wallet in the world. The company supports 56 million global users and facilitates transactions in 190 countries. They have raised a total of $547.3M in funding over 14 rounds and their latest funding was raised on Oct 1, 2020.
+Headquartered in San Francisco, California, Coinbase boasts a team of 1,700 employees and it is the largest consumer bitcoin wallet in the world. The company supports 56 million global users and facilitates transactions in 190 countries. They have raised a total of $547.3M in funding over 14 rounds and their latest funding was raised on Oct 1, 2020.
 
 ## Business Activities
 
@@ -17,9 +17,7 @@ Brian Armstrong told Forbes last year, “I wanted the world to have a global, o
 
 To achieve this, Coinbase began by providing a safe and regulatory-compliant crypto exchange, and once they succeeded there, they branched out to offer crypto custodial services to institutions, plus a personal wallet and new currencies designed to appeal to those seeking more privacy with the goal of becoming the most trusted name in the cryptocurrency space. 
 
-Coinbase is growing rapidly by adding 13 million new verified users to the platform in the first three months of 2021. In Q1 2021, Coinbase's trading volume was 335 billion USD. Over the past few years, Coinbase has consistently increased their share of the crypto market from 4.5% in 2018 to 11.3% in 2021.
-
-The company is also focused on growing their institutional customers by adding 2,800 new institutional investors over the past year to bring their total institutional customer base to 7,000. These hedge funds, financial institutions and other institutional customers hold 44.8 billion worth of assets on the platform. 
+Coinbase is growing rapidly by adding 13 million new verified users to the platform in the first three months of 2021. The company is also focused on growing their institutional customers by adding 2,800 new institutional investors over the past year to bring their total institutional customer base to 7,000. 
 
 Coinbase appeals to new crytpo traders because it is one of the most reliable cryptocurrecny exchanges in the world and it is also easy to use. Users simply link their bank account, transfer money and begin trading crytpocurrencies. 
 
@@ -37,7 +35,7 @@ Bitcoin entered the scene in 2009 with a whitepaper by the mysterious person or 
 As cryptocurrencies have grown, so too has the competition for Coinbase. Voyager is a powerful and secure trading app which provides 50+ digital assets. iTrustCapital is considered the leader in crypto IRA's as it provides you with the ability to buy or sell digital assets and VaultChain precious metals tax-free. Crypto.com has an entire crypto ecosystem that contains its app, Crypto Earn, Crypto Credit, the Crypto.com Exchange and DeFi Wallet along with Crypto Pay. Gemini is another competitor with an interesting approach providing multiple platform options based on user skill level while offereing 26 different coins and tokens on their exchange. Rounding out the competition is the company with the best brand recognition in Robinhood, which provides traders with an intuitive and streamlined platform. 
 
 ## Results
-
+Coinbase boasts sales of 1.3B USD and a market cap of 68.1B USD. In Q1 2021, Coinbase's trading volume was 335 billion USD. Over the past few years, Coinbase has consistently increased their share of the crypto market from 4.5% in 2018 to 11.3% in 2021. A large part of this success is due to expanding their reach with hedge funds, financial institutions and other institutional customers, which hold 44.8 billion worth of assets on the platform. 
 
 ### Resources:
 - [CNBC](https://www.cnbc.com/2021/05/01/charlie-munger-calls-bitcoin-disgusting-and-contrary-to-the-interests-of-civilization.html)
