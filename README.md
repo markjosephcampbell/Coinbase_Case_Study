@@ -34,7 +34,7 @@ Bitcoin entered the scene in 2009 with a whitepaper by the mysterious person or 
 
  While Bitcoin remains the most popular and influential cryptocurrency, it has tons of competition from other cryptocurrencies commonly referred to as altcoins. Some of the most notable alternatives are Ethereum, Litecoin, Cardano, and Polkadot. According to Statista, there were 66 cryptocurrencies in 2013 and now there are 6,044 as of July 2021.
 
-As cryptocurrencies have grown, so too has the competition for Coinbase. Voyager 
+As cryptocurrencies have grown, so too has the competition for Coinbase. Voyager is a powerful and secure trading app which provides 50+ digital assets. iTrustCapital is considered the leader in crypto IRA's as it provides you with the ability to buy or sell digital assets and VaultChain precious metals tax-free. Crypto.com has an entire crypto ecosystem that contains its app, Crypto Earn, Crypto Credit, the Crypto.com Exchange and DeFi Wallet along with Crypto Pay. Gemini is another competitor with an interesting approach providing multiple platform options based on user skill level while offereing 26 different coins and tokens on their exchange. Rounding out the competition is the company with the best brand recognition in Robinhood, which provides traders with an intuitive and streamlined platform. 
 
 ## Results
 
@@ -46,6 +46,7 @@ As cryptocurrencies have grown, so too has the competition for Coinbase. Voyager
 - [Tech Crunch](https://techcrunch.com/2021/06/28/coinbase-ceo-brian-armstrong-is-coming-to-disrupt/)
 - [AWS](https://aws.amazon.com/solutions/case-studies/coinbase/)
 - [Armstrong blog](https://barmstrong.medium.com/what-is-coinbases-strategy-1c5413f6e09d)
+- [Coinbase](https://www.coinbase.com)
 - [Backlinko](https://backlinko.com/coinbase-users#key-coinbase-stats)
 - [Benzinga](https://www.benzinga.com/money/coinbase-alternative/)
 - [Investopedia](https://www.investopedia.com/terms/b/bitcoin.asp)
