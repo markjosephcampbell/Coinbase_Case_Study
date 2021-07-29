@@ -76,7 +76,7 @@ While many still view the cryptocurrency markets as the wild, wild west, Coinbas
 - [Statista](https://www.statista.com/statistics/863917/number-crypto-coins-tokens/)
 - [Software Guild](https://www.thesoftwareguild.com/blog/a-brief-history-of-cryptocurrency/)
 - [Columbus.org](https://columbus.org/wp-content/uploads/2018/10/wp_the-blockchain-landscape.pdf)
-- [Fast Company](https://www.markcampbellproductions.com/headshots)
+- [Fast Company](https://www.fastcompany.com/90626194/its-okay-if-youre-still-confused-about-coinbase-let-us-explain-why-it-matters-now)
 - [Toptal](https://www.toptal.com/finance/blockchain/coinbase)
 - [Kraken](https://www.kraken.com/en-us/)
 - [Crypto Compare](https://www.cryptocompare.com/)
