@@ -1,6 +1,6 @@
 # Nervous About Investing in Cryptocurrency? 
 ---
-"Of course, I hate the success of Bitcoin. I don’t welcome a currency that’s so useful to kidnappers and extortionists and so forth, nor do I like just shuffling out of your extra billions of billions of dollars to somebody who just invented a new financial product out of thin air. I think I should say modestly that the whole damn development is disgusting and contrary to the interests of civilization,” *said Berkshire Hathaway Vice Chairman Charlie Munger during a Q&A session at Berkshire’s annual shareholder meeting in April of 2021.* 
+"Of course, I hate the success of Bitcoin. I don’t welcome a currency that’s so useful to kidnappers and extortionists and so forth, nor do I like just shuffling out of your extra billions of billions of dollars to somebody who just invented a new financial product out of thin air. I think I should say modestly that the whole damn development is disgusting and contrary to the interests of civilization,” said Berkshire Hathaway Vice Chairman Charlie Munger during a Q&A session at Berkshire’s annual shareholder meeting in April of 2021. 
 
 ## Overview and Origin
 
@@ -38,7 +38,7 @@ As cryptocurrencies have grown in popularity, so too has the competition for Coi
 
 ## Results
 
-Coinbase boasts sales of 1.3B USD and a market cap of 68.1B USD. In Q1 2021, Coinbase's trading volume was 335 billion USD. Over the past few years, Coinbase has consistently increased their share of the crypto market from 4.5% in 2018 to 11.3% in 2021. A large part of this success is due to expanding their reach with hedge funds, financial institutions, and other institutional customers, which hold 44.8 billion worth of assets on the platform. 
+Coinbase boasts sales of 1.3B USD and a market cap of 68.1B USD. In Q1 2021, Coinbase's trading volume was 335 billion USD. Over the past few years, Coinbase has consistently increased their share of the crypto market from 4.5% in 2018 to 11.3% in 2021. A large part of this success is due to expanding their reach with hedge funds, financial institutions, and other institutional customers, which hold 44.8 billion USD worth of assets on the platform. 
 
 
 
@@ -47,7 +47,7 @@ On April 14, 2021 Coinbase joined the Nasdaq via a direct listing and became the
 
 Coinbase recently received a AA rating from CryptoCompare making them one of a few low risk exchanges. They will continue to be viewed as a top-tier exchange because of their focus on security, legal/regulatory, and transaction risk. Security is improved by holding over 98% of their assets offline in geographically distributed cold wallets. A high legal/regulatory rating is awarded by carrying insurance against losses, following industry guidelines, and providing various compliance statements. The third key component, risk mitigation, is achieved through market surveillance systems and on-chain transaction monitoring.
  
-Binance, not mentioned above, is one of the largest threats to Coinbase. Launching just four years ago in China, they are offering more than 350 coins and their trading volume was 757 billion USD in March of this year. While they are ranked lower than Coinbase in quality and safety, they have been wildly innovative with products which appeal to more seasoned traders including one of the industry's first crypto derivatives platforms. It has not all been smooth sailing for them though as they have also run into regulatory problems.
+Binance, not mentioned above, is one of the largest threats to Coinbase. Launching just four years ago in China, they are offering more than 350 coins and their trading volume was 757 billion USD in March of this year. While they are ranked lower than Coinbase in quality and safety, they have been extremely innovative with products which appeal to more seasoned traders including one of the industry's first crypto derivatives platforms. It has not all been smooth sailing for them though as they have also run into regulatory problems.
 
 "Coinbase made its name as the safest on-ramp for converting dollars into tokens and developed a brokerage business that attracted not just retail but a growing cadre of corporate clients like Tesla and hedge fund Third Point Management. While it lags rivals in trading volume, it still has the most assets under management on its platform, a $223 billion pool of liquidity that gives it power to provide superior pricing and trade execution that institutional investors demand," says Zachary Elfman, a Toptal freelance finance expert.
 
